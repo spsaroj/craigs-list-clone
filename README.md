@@ -3,6 +3,11 @@
 This is a Craig's List clone but much beautiful to look.
 The location for this version of Craig's list will be SF Bay Area
 
+## Techs used
+1. Django Framework
+2. Beautiful Soup
+3. Materialize CSS
+
 ## How it looks
 
 Landing Page:
