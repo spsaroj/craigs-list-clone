@@ -11,4 +11,4 @@ class Search(models.Model):
 
     # This class will change the default Searchs in the admin interface to Searches
     class Meta:
-        verbose_name_plural  = 'Searches'
+        verbose_name_plural  = 'Searches'   
